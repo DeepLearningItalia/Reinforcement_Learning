@@ -4,7 +4,5 @@ Questo è il repository ufficiale del nanodegree in Reinforcement Learning di De
 Author: Andrea Mercuri
 <br>
 a.mercuri@deeplearningitalia.com
-<br>
-btlgs2000@gmail.com
 
 https://github.com/btlgs2000
